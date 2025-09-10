@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:peter.rezaeezadeh@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/pourya-rezaee-zadeh">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/pourya-rezaee-zadeh">LinkedIn</a>
 <!--   <a href="https://github.com/peterrz">GitHub</a> -->
 </p>
 
